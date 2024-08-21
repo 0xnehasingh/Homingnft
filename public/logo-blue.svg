@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="9f524502-b119-4ebf-a308-2246a3515f77"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="c67cf28a-0f20-4b73-9244-be9b2dd022c3"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(0.66 0 0 -0.66 540 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(6,119,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-3446.19, -1931.69)" d="M 3369 2449 C 3109 2420 2894 2145 2925 1881 C 2961 1564 3243 1361 3561 1420 C 3735 1452 3906 1614 3952 1789 C 4011 2015 3925 2245 3735 2369 C 3628 2439 3510 2465 3369 2449 z M 3526 2248 L 3600 2177 L 3600 2211 C 3600 2253 3615 2270 3652 2270 C 3691 2270 3702 2242 3699 2154 L 3696 2080 L 3763 2012 C 3829 1945 3842 1916 3818 1892 C 3791 1865 3763 1883 3615 2030 C 3512 2133 3457 2180 3442 2180 C 3427 2180 3372 2133 3268 2030 C 3185 1948 3110 1880 3100 1880 C 3078 1880 3060 1900 3060 1924 C 3060 1938 3127 2012 3247 2132 C 3350 2236 3439 2320 3443 2320 C 3448 2320 3485 2288 3526 2248 z M 3513 2082 C 3542 2055 3587 2014 3615 1989 C 3731 1886 3720 1909 3720 1756 C 3720 1588 3715 1580 3617 1580 C 3519 1580 3510 1591 3510 1705 C 3510 1794 3509 1800 3484 1819 C 3469 1831 3452 1840 3445 1840 C 3438 1840 3421 1831 3406 1819 C 3381 1800 3380 1794 3380 1710 C 3380 1595 3375 1590 3270 1590 C 3168 1590 3167 1590 3172 1765 L 3175 1898 L 3230 1946 C 3260 1973 3317 2025 3357 2063 C 3397 2100 3436 2130 3445 2130 C 3454 2130 3485 2108 3513 2082 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+</svg>

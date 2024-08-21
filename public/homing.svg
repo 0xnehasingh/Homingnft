@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="300" viewBox="0 0 1080 300" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 150)" id="1ed8883a-3139-4fb6-b5ea-574a536bc450"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #2463EB; fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-150" rx="0" ry="0" width="1080" height="300" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="5cb10620-9174-4f98-a6f2-be68d10eeee5"  >
+</g>
+<g transform="matrix(1.33 0 0 1.33 540 150)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(0.13 0 0 -0.13 -180.08 0)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #2463EB; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-3446.19, -1931.69)" d="M 3369 2449 C 3109 2420 2894 2145 2925 1881 C 2961 1564 3243 1361 3561 1420 C 3735 1452 3906 1614 3952 1789 C 4011 2015 3925 2245 3735 2369 C 3628 2439 3510 2465 3369 2449 z M 3526 2248 L 3600 2177 L 3600 2211 C 3600 2253 3615 2270 3652 2270 C 3691 2270 3702 2242 3699 2154 L 3696 2080 L 3763 2012 C 3829 1945 3842 1916 3818 1892 C 3791 1865 3763 1883 3615 2030 C 3512 2133 3457 2180 3442 2180 C 3427 2180 3372 2133 3268 2030 C 3185 1948 3110 1880 3100 1880 C 3078 1880 3060 1900 3060 1924 C 3060 1938 3127 2012 3247 2132 C 3350 2236 3439 2320 3443 2320 C 3448 2320 3485 2288 3526 2248 z M 3513 2082 C 3542 2055 3587 2014 3615 1989 C 3731 1886 3720 1909 3720 1756 C 3720 1588 3715 1580 3617 1580 C 3519 1580 3510 1591 3510 1705 C 3510 1794 3509 1800 3484 1819 C 3469 1831 3452 1840 3445 1840 C 3438 1840 3421 1831 3406 1819 C 3381 1800 3380 1794 3380 1710 C 3380 1595 3375 1590 3270 1590 C 3168 1590 3167 1590 3172 1765 L 3175 1898 L 3230 1946 C 3260 1973 3317 2025 3357 2063 C 3397 2100 3436 2130 3445 2130 C 3454 2130 3485 2108 3513 2082 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 -0.13 -334.24 4.22)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-2290, -1900)" d="M 1928 2373 L 1890 2369 L 1890 1894 L 1890 1420 L 1985 1420 L 2080 1420 L 2080 1640 L 2080 1860 L 2295 1860 L 2510 1860 L 2510 1640 L 2510 1420 L 2600 1420 L 2690 1420 L 2690 1900 L 2690 2380 L 2638 2380 C 2609 2380 2568 2377 2548 2374 L 2510 2367 L 2508 2191 L 2505 2015 L 2293 2012 L 2080 2010 L 2078 2192 L 2075 2375 L 2020 2376 C 1990 2377 1948 2375 1928 2373 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 -0.13 -12.91 4.16)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-4700, -1900.5)" d="M 4248 2372 L 4210 2369 L 4210 1894 L 4210 1420 L 4295 1420 L 4380 1420 L 4380 1741 C 4380 1993 4383 2061 4393 2058 C 4399 2055 4455 1911 4515 1737 L 4625 1420 L 4700 1420 L 4775 1420 L 4818 1543 C 4958 1946 4998 2054 5008 2058 C 5017 2061 5020 1981 5020 1741 L 5020 1420 L 5105 1420 L 5190 1420 L 5190 1900 L 5190 2381 L 5074 2378 L 4958 2375 L 4837 2027 C 4767 1826 4712 1681 4706 1683 C 4700 1685 4644 1832 4583 2011 C 4521 2189 4466 2345 4461 2357 C 4452 2376 4444 2378 4368 2377 C 4322 2376 4268 2374 4248 2372 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 -0.13 99.09 4.22)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-5540, -1900)" d="M 5488 2373 L 5450 2369 L 5450 1894 L 5450 1420 L 5540 1420 L 5630 1420 L 5630 1900 L 5630 2380 L 5578 2378 C 5549 2377 5508 2375 5488 2373 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 -0.13 197.76 4.22)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-6280, -1900)" d="M 6543 2373 L 6500 2369 L 6500 2064 C 6500 1825 6497 1760 6487 1760 C 6480 1760 6455 1793 6430 1833 C 6406 1872 6321 2010 6242 2138 L 6098 2370 L 5989 2370 L 5880 2370 L 5880 1895 L 5880 1420 L 5970 1420 L 6060 1420 L 6060 1745 C 6060 1924 6064 2070 6068 2070 C 6073 2070 6084 2062 6092 2053 C 6111 2031 6468 1457 6476 1436 C 6481 1423 6500 1420 6581 1420 L 6680 1420 L 6680 1900 L 6680 2380 L 6633 2378 C 6606 2377 6566 2375 6543 2373 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 -0.13 333.33 4.56)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-7296.83, -1897.52)" d="M 7170 2362 C 6979 2299 6890 2149 6890 1890 C 6890 1715 6923 1609 7004 1522 C 7073 1448 7149 1418 7264 1417 C 7375 1416 7431 1437 7480 1499 C 7498 1521 7517 1540 7522 1540 C 7526 1540 7530 1513 7530 1480 L 7530 1420 L 7615 1420 L 7699 1420 L 7702 1686 C 7704 1832 7704 1952 7703 1953 C 7702 1954 7611 1954 7501 1952 L 7300 1949 L 7300 1875 L 7300 1800 L 7410 1800 L 7520 1800 L 7520 1747 C 7520 1679 7487 1613 7440 1585 C 7389 1556 7261 1557 7203 1588 C 7112 1636 7077 1721 7077 1895 C 7077 2072 7110 2155 7201 2204 C 7322 2270 7481 2235 7545 2128 C 7554 2113 7563 2116 7627 2154 L 7700 2196 L 7672 2241 C 7640 2290 7583 2334 7518 2358 C 7451 2383 7240 2385 7170 2362 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
