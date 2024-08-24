@@ -11,7 +11,7 @@ import '@/styles/global.css';
 
 // Main app metadata
 export const metadata: Metadata = {
-	title: 'Houseform',
+	title: 'Homing',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
