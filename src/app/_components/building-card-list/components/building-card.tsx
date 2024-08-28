@@ -12,6 +12,7 @@ import { HiOutlineIdentification } from 'react-icons/hi';
 import { useRouter } from 'next/navigation';
 
 export const BuildingCard = function BuildingCard({
+	project,
 	showActions,
 	disabled,
 	onClick,
