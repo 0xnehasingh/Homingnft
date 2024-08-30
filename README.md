@@ -59,6 +59,6 @@ The architecture of the platform is based on:
 ## Useful links
 
 - Contracts (Deployed on Klaytn testnet):
-  - HouseformManager: https://baobab.klaytnscope.com/account/0x9c423c37215ed2D74dC9CD759073d285DFCD50F2?tabId=txList
-  - HouseformShare: https://baobab.klaytnscope.com/account/0x659016a7b65a9B7A21CF19416bbd0027132deA9f?tabId=txList
-# houseform_nft
+  - HomingManager: https://baobab.klaytnscope.com/account/0x9c423c37215ed2D74dC9CD759073d285DFCD50F2?tabId=txList
+  - HomingShare: https://baobab.klaytnscope.com/account/0x659016a7b65a9B7A21CF19416bbd0027132deA9f?tabId=txList
+
